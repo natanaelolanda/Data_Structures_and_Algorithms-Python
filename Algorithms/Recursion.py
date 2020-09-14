@@ -1,5 +1,5 @@
 
-# Fibonacci recursion function example
+# Fibonacci recursive function example
 def get_fib(position):
     if position == 0 or position == 1:
         return position
